@@ -1,0 +1,4 @@
+interface:
+  display_name: "组会汇报skills"
+  short_description: "生成下周组会汇报准备报告，明确要讲的内容、所需材料和会前任务"
+  default_prompt: "请用 $research-progress-report，根据我的课题、近期记录和导师反馈，生成下周组会汇报准备报告，明确下周讲什么、会前准备什么及完成标准。"
